@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'file:///C:/Users/Usuario/AndroidStudioProjects/flutter_app/lib/Pages/main.dart';
+import 'file:///F:/Escritorio/Octavo/Software 3/ProyectoMovil/RecipesHub/RecipesHub/lib/Pages/main.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
